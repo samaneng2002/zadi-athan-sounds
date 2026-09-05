@@ -198,16 +198,16 @@
       }
     },
     {
-      "id": "mohammad_sharbash",
-      "file": "sounds/mohammad_sharbash.mp3",
+      "id": "malek_sharbash",
+      "file": "sounds/malek_sharbash.mp3",
       "sizeBytes": 2008922,
       "displayName": {
-        "en": "Mohammad Sharbash",
-        "fr": "Mohammad Sharbash",
-        "in": "Mohammad Sharbash",
-        "ar": "محمد شرباش",
-        "ur": "محمد شرباش",
-        "bn": "Mohammad Sharbash"
+        "en": "Malek Sharbash",
+        "fr": "Malek Sharbash",
+        "in": "Malek Sharbash",
+        "ar": "مالك شرباش",
+        "ur": "مالك شرباش",
+        "bn": "Malek Sharbash"
       }
     },
     {
