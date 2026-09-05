@@ -166,8 +166,8 @@
         "en": "Ahmed Al Imadi",
         "fr": "Ahmed Al Imadi",
         "in": "Ahmed Al Imadi",
-        "ar": "Ahmed Al Imadi",
-        "ur": "Ahmed Al Imadi",
+        "ar": "احمد العمادي",
+        "ur": "احمد العمادي",
         "bn": "Ahmed Al Imadi"
       }
     },
@@ -198,16 +198,16 @@
       }
     },
     {
-      "id": "malek_chebae",
-      "file": "sounds/malek_chebae.mp3",
+      "id": "mohammad_sharbash",
+      "file": "sounds/mohammad_sharbash.mp3",
       "sizeBytes": 2008922,
       "displayName": {
-        "en": "Malek Chebae",
-        "fr": "Malek Chebae",
-        "in": "Malek Chebae",
-        "ar": "Malek Chebae",
-        "ur": "Malek Chebae",
-        "bn": "Malek Chebae"
+        "en": "Mohammad Sharbash",
+        "fr": "Mohammad Sharbash",
+        "in": "Mohammad Sharbash",
+        "ar": "محمد شرباش",
+        "ur": "محمد شرباش",
+        "bn": "Mohammad Sharbash"
       }
     },
     {
@@ -218,8 +218,8 @@
         "en": "Hamad Deghreri",
         "fr": "Hamad Deghreri",
         "in": "Hamad Deghreri",
-        "ar": "Hamad Deghreri",
-        "ur": "Hamad Deghreri",
+        "ar": "حمد دغريري",
+        "ur": "حمد دغريري",
         "bn": "Hamad Deghreri"
       }
     },
@@ -231,8 +231,8 @@
         "en": "Hamdan Almalki",
         "fr": "Hamdan Almalki",
         "in": "Hamdan Almalki",
-        "ar": "Hamdan Almalki",
-        "ur": "Hamdan Almalki",
+        "ar": "حمدان المالكي",
+        "ur": "حمدان المالكي",
         "bn": "Hamdan Almalki"
       }
     },
@@ -283,8 +283,8 @@
         "en": "Suhaib Khatba",
         "fr": "Suhaib Khatba",
         "in": "Suhaib Khatba",
-        "ar": "Suhaib Khatba",
-        "ur": "Suhaib Khatba",
+        "ar": "صهيب",
+        "ur": "صهيب",
         "bn": "Suhaib Khatba"
       }
     },
