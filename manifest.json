@@ -16,29 +16,29 @@
       }
     },
     {
-      "id": "abdul_majid_al_surehi_1",
-      "file": "sounds/abdul_majid_al_surehi_1.mp3",
+      "id": "abdul_majid_al_surehi",
+      "file": "sounds/abdul_majid_al_surehi.mp3",
       "sizeBytes": 828962,
       "displayName": {
-        "en": "Abdul Majid Al Surehi 1",
-        "fr": "Abdul Majid Al Surehi 1",
-        "in": "Abdul Majid Al Surehi 1",
-        "ar": "عبدالمجيد السريحي 1",
-        "ur": "عبدالمجيد السريحي 1",
-        "bn": "Abdul Majid Al Surehi 1"
+        "en": "Abdul Majid Al Surehi",
+        "fr": "Abdul Majid Al Surehi",
+        "in": "Abdul Majid Al Surehi",
+        "ar": "عبدالمجيد السريحي",
+        "ur": "عبدالمجيد السريحي",
+        "bn": "Abdul Majid Al Surehi"
       }
     },
     {
-      "id": "abdul_majid_al_surehi_2",
-      "file": "sounds/abdul_majid_al_surehi_2.mp3",
+      "id": "abdul_majid_al_surehi_alsalah",
+      "file": "sounds/abdul_majid_al_surehi_alsalah.mp3",
       "sizeBytes": 538407,
       "displayName": {
-        "en": "Abdul Majid Al Surehi 2",
-        "fr": "Abdul Majid Al Surehi 2",
-        "in": "Abdul Majid Al Surehi 2",
-        "ar": "عبدالمجيد السريحي 2",
-        "ur": "عبدالمجيد السريحي 2",
-        "bn": "Abdul Majid Al Surehi 2"
+        "en": "Abdul Majid Al Surehi (Alsalah)",
+        "fr": "Abdul Majid Al Surehi (Alsalah)",
+        "in": "Abdul Majid Al Surehi (Alsalah)",
+        "ar": "عبدالمجيد السريحي (الصلاة خير من النوم)",
+        "ur": "عبدالمجيد السريحي (الصلاة خير من النوم)",
+        "bn": "Abdul Majid Al Surehi (Alsalah)"
       }
     },
     {
