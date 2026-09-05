@@ -198,16 +198,16 @@
       }
     },
     {
-      "id": "malek_sharbash",
-      "file": "sounds/malek_sharbash.mp3",
+      "id": "malek",
+      "file": "sounds/malek.mp3",
       "sizeBytes": 2008922,
       "displayName": {
-        "en": "Malek Sharbash",
-        "fr": "Malek Sharbash",
-        "in": "Malek Sharbash",
-        "ar": "مالك شرباش",
-        "ur": "مالك شرباش",
-        "bn": "Malek Sharbash"
+        "en": "Malek",
+        "fr": "Malek",
+        "in": "Malek",
+        "ar": "مالك",
+        "ur": "مالك",
+        "bn": "Malek"
       }
     },
     {
