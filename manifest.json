@@ -1,0 +1,331 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-05",
+  "sounds": [
+    {
+      "id": "abdel_moneim_abdel_mobdi",
+      "file": "sounds/abdel_moneim_abdel_mobdi.mp3",
+      "sizeBytes": 712147,
+      "displayName": {
+        "en": "Abdel Moneim Abdel Mobdi",
+        "fr": "Abdel Moneim Abdel Mobdi",
+        "in": "Abdel Moneim Abdel Mobdi",
+        "ar": "عبد المنعم عبد المبدي",
+        "ur": "عبد المنعم عبد المبدي",
+        "bn": "Abdel Moneim Abdel Mobdi"
+      }
+    },
+    {
+      "id": "abdul_majid_al_surehi_1",
+      "file": "sounds/abdul_majid_al_surehi_1.mp3",
+      "sizeBytes": 828962,
+      "displayName": {
+        "en": "Abdul Majid Al Surehi 1",
+        "fr": "Abdul Majid Al Surehi 1",
+        "in": "Abdul Majid Al Surehi 1",
+        "ar": "عبدالمجيد السريحي 1",
+        "ur": "عبدالمجيد السريحي 1",
+        "bn": "Abdul Majid Al Surehi 1"
+      }
+    },
+    {
+      "id": "abdul_majid_al_surehi_2",
+      "file": "sounds/abdul_majid_al_surehi_2.mp3",
+      "sizeBytes": 538407,
+      "displayName": {
+        "en": "Abdul Majid Al Surehi 2",
+        "fr": "Abdul Majid Al Surehi 2",
+        "in": "Abdul Majid Al Surehi 2",
+        "ar": "عبدالمجيد السريحي 2",
+        "ur": "عبدالمجيد السريحي 2",
+        "bn": "Abdul Majid Al Surehi 2"
+      }
+    },
+    {
+      "id": "abdul_rahman_al_arake",
+      "file": "sounds/abdul_rahman_al_arake.mp3",
+      "sizeBytes": 3331445,
+      "displayName": {
+        "en": "Abdul Rahman Al Arake",
+        "fr": "Abdul Rahman Al Arake",
+        "in": "Abdul Rahman Al Arake",
+        "ar": "عبدالرحمن العراقي",
+        "ur": "عبدالرحمن العراقي",
+        "bn": "Abdul Rahman Al Arake"
+      }
+    },
+    {
+      "id": "abdul_rahman_majde",
+      "file": "sounds/abdul_rahman_majde.mp3",
+      "sizeBytes": 6566058,
+      "displayName": {
+        "en": "Abdul Rahman Majde",
+        "fr": "Abdul Rahman Majde",
+        "in": "Abdul Rahman Majde",
+        "ar": "عبدالرحمن ماجد",
+        "ur": "عبدالرحمن ماجد",
+        "bn": "Abdul Rahman Majde"
+      }
+    },
+    {
+      "id": "abdul_wali_al_arkani",
+      "file": "sounds/abdul_wali_al_arkani.mp3",
+      "sizeBytes": 2539982,
+      "displayName": {
+        "en": "Abdul Wali Al Arkani",
+        "fr": "Abdul Wali Al Arkani",
+        "in": "Abdul Wali Al Arkani",
+        "ar": "عبدالولي الأركاني",
+        "ur": "عبدالولي الأركاني",
+        "bn": "Abdul Wali Al Arkani"
+      }
+    },
+    {
+      "id": "abdullah_al_sabaawe",
+      "file": "sounds/abdullah_al_sabaawe.mp3",
+      "sizeBytes": 2994542,
+      "displayName": {
+        "en": "Abdullah Al Sabaawe",
+        "fr": "Abdullah Al Sabaawe",
+        "in": "Abdullah Al Sabaawe",
+        "ar": "عبدالله الصباوي",
+        "ur": "عبدالله الصباوي",
+        "bn": "Abdullah Al Sabaawe"
+      }
+    },
+    {
+      "id": "abul_ainain_shuaisha_cairo",
+      "file": "sounds/abul_ainain_shuaisha_cairo.mp3",
+      "sizeBytes": 477002,
+      "displayName": {
+        "en": "Abul Ainain Shuaisha (Cairo)",
+        "fr": "Abul Ainain Shuaisha (Cairo)",
+        "in": "Abul Ainain Shuaisha (Cairo)",
+        "ar": "أبو العينين شعيشع - القاهرة",
+        "ur": "أبو العينين شعيشع - القاهرة",
+        "bn": "Abul Ainain Shuaisha (Cairo)"
+      }
+    },
+    {
+      "id": "adam_abu_sakhra",
+      "file": "sounds/adam_abu_sakhra.mp3",
+      "sizeBytes": 1736363,
+      "displayName": {
+        "en": "Adam Abu Sakhra",
+        "fr": "Adam Abu Sakhra",
+        "in": "Adam Abu Sakhra",
+        "ar": "آدم أبو سخرة",
+        "ur": "آدم أبو سخرة",
+        "bn": "Adam Abu Sakhra"
+      }
+    },
+    {
+      "id": "al_haram_al_madani",
+      "file": "sounds/al_haram_al_madani.mp3",
+      "sizeBytes": 561776,
+      "displayName": {
+        "en": "Al Haram Al Madani",
+        "fr": "Al Haram Al Madani",
+        "in": "Al Haram Al Madani",
+        "ar": "الحرم المدني",
+        "ur": "الحرم المدني",
+        "bn": "Al Haram Al Madani"
+      }
+    },
+    {
+      "id": "ahmed_al_haddad",
+      "file": "sounds/ahmed_al_haddad.mp3",
+      "sizeBytes": 2477560,
+      "displayName": {
+        "en": "Ahmed Al-Haddad",
+        "fr": "Ahmed Al-Haddad",
+        "in": "Ahmed Al-Haddad",
+        "ar": "أحمد الحداد",
+        "ur": "أحمد الحداد",
+        "bn": "Ahmed Al-Haddad"
+      }
+    },
+    {
+      "id": "ahmed_el_kourdi",
+      "file": "sounds/ahmed_el_kourdi.mp3",
+      "sizeBytes": 3164421,
+      "displayName": {
+        "en": "Ahmed El Kourdi",
+        "fr": "Ahmed El Kourdi",
+        "in": "Ahmed El Kourdi",
+        "ar": "أحمد الكردي",
+        "ur": "أحمد الكردي",
+        "bn": "Ahmed El Kourdi"
+      }
+    },
+    {
+      "id": "ahmed_al_imadi",
+      "file": "sounds/ahmed_al_imadi.mp3",
+      "sizeBytes": 2969750,
+      "displayName": {
+        "en": "Ahmed Al Imadi",
+        "fr": "Ahmed Al Imadi",
+        "in": "Ahmed Al Imadi",
+        "ar": "Ahmed Al Imadi",
+        "ur": "Ahmed Al Imadi",
+        "bn": "Ahmed Al Imadi"
+      }
+    },
+    {
+      "id": "al_bahlul_abu_arqub",
+      "file": "sounds/al_bahlul_abu_arqub.mp3",
+      "sizeBytes": 1672056,
+      "displayName": {
+        "en": "Al Bahlul Abu Arqub",
+        "fr": "Al Bahlul Abu Arqub",
+        "in": "Al Bahlul Abu Arqub",
+        "ar": "البهلول أبو عرقوب",
+        "ur": "البهلول أبو عرقوب",
+        "bn": "Al Bahlul Abu Arqub"
+      }
+    },
+    {
+      "id": "ali_hassan_abd_al_khaliq_qatar",
+      "file": "sounds/ali_hassan_abd_al_khaliq_qatar.mp3",
+      "sizeBytes": 5379519,
+      "displayName": {
+        "en": "Ali Hassan Abd Al Khaliq (Qatar)",
+        "fr": "Ali Hassan Abd Al Khaliq (Qatar)",
+        "in": "Ali Hassan Abd Al Khaliq (Qatar)",
+        "ar": "علي حسن عبد الخالق - قطر",
+        "ur": "علي حسن عبد الخالق - قطر",
+        "bn": "Ali Hassan Abd Al Khaliq (Qatar)"
+      }
+    },
+    {
+      "id": "malek_chebae",
+      "file": "sounds/malek_chebae.mp3",
+      "sizeBytes": 2008922,
+      "displayName": {
+        "en": "Malek Chebae",
+        "fr": "Malek Chebae",
+        "in": "Malek Chebae",
+        "ar": "Malek Chebae",
+        "ur": "Malek Chebae",
+        "bn": "Malek Chebae"
+      }
+    },
+    {
+      "id": "hamad_deghreri",
+      "file": "sounds/hamad_deghreri.mp3",
+      "sizeBytes": 1295675,
+      "displayName": {
+        "en": "Hamad Deghreri",
+        "fr": "Hamad Deghreri",
+        "in": "Hamad Deghreri",
+        "ar": "Hamad Deghreri",
+        "ur": "Hamad Deghreri",
+        "bn": "Hamad Deghreri"
+      }
+    },
+    {
+      "id": "hamdan_almalki",
+      "file": "sounds/hamdan_almalki.mp3",
+      "sizeBytes": 4269539,
+      "displayName": {
+        "en": "Hamdan Almalki",
+        "fr": "Hamdan Almalki",
+        "in": "Hamdan Almalki",
+        "ar": "Hamdan Almalki",
+        "ur": "Hamdan Almalki",
+        "bn": "Hamdan Almalki"
+      }
+    },
+    {
+      "id": "mishary_alafasi",
+      "file": "sounds/mishary_alafasi.mp3",
+      "sizeBytes": 1930973,
+      "displayName": {
+        "en": "Mishary Alafasi",
+        "fr": "Mishary Alafasi",
+        "in": "Mishary Alafasi",
+        "ar": "مشاري العفاسي",
+        "ur": "مشاري العفاسي",
+        "bn": "মিশারী আলাফাসি"
+      }
+    },
+    {
+      "id": "mohammad_refaat",
+      "file": "sounds/mohammad_refaat.mp3",
+      "sizeBytes": 407680,
+      "displayName": {
+        "en": "Mohammad Refaat",
+        "fr": "Mohammad Refaat",
+        "in": "Mohammad Refaat",
+        "ar": "محمد رفعت",
+        "ur": "محمد رفعت",
+        "bn": "মুহাম্মদ রিফাত"
+      }
+    },
+    {
+      "id": "nasser_alqatami",
+      "file": "sounds/nasser_alqatami.mp3",
+      "sizeBytes": 1119975,
+      "displayName": {
+        "en": "Nasser Al-Qattami",
+        "fr": "Nasser Al-Qattami",
+        "in": "Nasser Al-Qattami",
+        "ar": "ناصر القطامي",
+        "ur": "ناصر القطامي",
+        "bn": "নাসের আল-কাত্তামি"
+      }
+    },
+    {
+      "id": "suhaib_khatba",
+      "file": "sounds/suhaib_khatba.mp3",
+      "sizeBytes": 733312,
+      "displayName": {
+        "en": "Suhaib Khatba",
+        "fr": "Suhaib Khatba",
+        "in": "Suhaib Khatba",
+        "ar": "Suhaib Khatba",
+        "ur": "Suhaib Khatba",
+        "bn": "Suhaib Khatba"
+      }
+    },
+    {
+      "id": "badee_jadu",
+      "file": "sounds/badee_jadu.mp3",
+      "sizeBytes": 3308288,
+      "displayName": {
+        "en": "Badee Jadu",
+        "fr": "Badee Jadu",
+        "in": "Badee Jadu",
+        "ar": "بديع جادو",
+        "ur": "بديع جادو",
+        "bn": "Badee Jadu"
+      }
+    },
+    {
+      "id": "balbasher_abdel_qadir",
+      "file": "sounds/balbasher_abdel_qadir.mp3",
+      "sizeBytes": 1871462,
+      "displayName": {
+        "en": "BalBaSher Abdel Qadir",
+        "fr": "BalBaSher Abdel Qadir",
+        "in": "BalBaSher Abdel Qadir",
+        "ar": "بلباشر عبد القادر",
+        "ur": "بلباشر عبد القادر",
+        "bn": "BalBaSher Abdel Qadir"
+      }
+    },
+    {
+      "id": "hamad_al_daghriri",
+      "file": "sounds/hamad_al_daghriri.mp3",
+      "sizeBytes": 3078763,
+      "displayName": {
+        "en": "Hamad Al Daghriri",
+        "fr": "Hamad Al Daghriri",
+        "in": "Hamad Al Daghriri",
+        "ar": "حمد الدغريري",
+        "ur": "حمد الدغريري",
+        "bn": "Hamad Al Daghriri"
+      }
+    }
+  ]
+}
