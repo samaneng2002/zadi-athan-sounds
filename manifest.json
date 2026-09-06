@@ -16,29 +16,16 @@
       }
     },
     {
-      "id": "abdul_majid_al_surehi",
-      "file": "sounds/abdul_majid_al_surehi.mp3",
-      "sizeBytes": 828962,
-      "displayName": {
-        "en": "Abdul Majid Al Surehi",
-        "fr": "Abdul Majid Al Surehi",
-        "in": "Abdul Majid Al Surehi",
-        "ar": "عبدالمجيد السريحي",
-        "ur": "عبدالمجيد السريحي",
-        "bn": "Abdul Majid Al Surehi"
-      }
-    },
-    {
       "id": "abdul_majid_al_surehi_alsalah",
       "file": "sounds/abdul_majid_al_surehi_alsalah.mp3",
       "sizeBytes": 538407,
       "displayName": {
-        "en": "Abdul Majid Al Surehi (Alsalah)",
-        "fr": "Abdul Majid Al Surehi (Alsalah)",
-        "in": "Abdul Majid Al Surehi (Alsalah)",
-        "ar": "عبدالمجيد السريحي (الصلاة خير من النوم)",
-        "ur": "عبدالمجيد السريحي (الصلاة خير من النوم)",
-        "bn": "Abdul Majid Al Surehi (Alsalah)"
+        "en": "Hamad Al Daghriri (Alsalah)",
+        "fr": "Hamad Al Daghriri (Alsalah)",
+        "in": "Hamad Al Daghriri (Alsalah)",
+        "ar": "(الصلاة خير من النوم) حمد الدغريري",
+        "ur": "(الصلاة خير من النوم) حمد الدغريري",
+        "bn": "Hamad Al Daghriri (Alsalah)"
       }
     },
     {
@@ -215,12 +202,12 @@
       "file": "sounds/hamad_deghreri.mp3",
       "sizeBytes": 1295675,
       "displayName": {
-        "en": "Hamad Deghreri",
-        "fr": "Hamad Deghreri",
-        "in": "Hamad Deghreri",
-        "ar": "حمد دغريري",
-        "ur": "حمد دغريري",
-        "bn": "Hamad Deghreri"
+        "en": "Hamad Al Daghriri",
+        "fr": "Hamad Al Daghriri",
+        "in": "Hamad Al Daghriri",
+        "ar": "حمد الدغريري",
+        "ur": "حمد الدغريري",
+        "bn": "Hamad Al Daghriri"
       }
     },
     {
