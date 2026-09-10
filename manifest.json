@@ -28,7 +28,6 @@
         "bn": "Hamad Al Daghriri (Alsalah)"
       }
     },
-    
     {
       "id": "abdul_rahman_al_arake",
       "file": "sounds/abdul_rahman_al_arake.mp3",
@@ -43,31 +42,31 @@
       }
     },
     {
-    "id": "mohamed_adel",
-    "file": "sounds/mohamed_adel.m4a",
-    "sizeBytes": 712147,
-    "displayName": {
-      "en": "Mohamed Adel",
-      "fr": "Mohamed Adel",
-      "in": "Mohamed Adel",
-      "ar": "محمد عادل",
-      "ur": "محمد عادل",
-      "bn": "Mohamed Adel"
-    }
-  },
-      {
-    "id": "mohamed_adel_takbir",
-    "file": "sounds/mohamed_adel_takbir.m4a",
-    "sizeBytes": 712147,
-    "displayName": {
-      "en": "Mohamed Adel (Takbir)",
-      "fr": "Mohamed Adel (Takbir)",
-      "in": "Mohamed Adel (Takbir)",
-      "ar": "محمد عادل (تكبير)",
-      "ur": "محمد عادل (تکبیر)",
-      "bn": "Mohamed Adel (Takbir)"
-    }
-  },
+      "id": "mohamed_adel",
+      "file": "sounds/mohamed_adel.m4a",
+      "sizeBytes": 712147,
+      "displayName": {
+        "en": "Mohamed Adel",
+        "fr": "Mohamed Adel",
+        "in": "Mohamed Adel",
+        "ar": "محمد عادل",
+        "ur": "محمد عادل",
+        "bn": "Mohamed Adel"
+      }
+    },
+    {
+      "id": "mohamed_adel_takbir",
+      "file": "sounds/mohamed_adel_takbir.m4a",
+      "sizeBytes": 712147,
+      "displayName": {
+        "en": "Mohamed Adel (Takbir)",
+        "fr": "Mohamed Adel (Takbir)",
+        "in": "Mohamed Adel (Takbir)",
+        "ar": "محمد عادل (تكبير)",
+        "ur": "محمد عادل (تکبیر)",
+        "bn": "Mohamed Adel (Takbir)"
+      }
+    },
     {
       "id": "abdul_rahman_majde",
       "file": "sounds/abdul_rahman_majde.mp3",
